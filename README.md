@@ -6,7 +6,8 @@
 **Program:** [Quantium Virtual Experience](https://www.theforage.com)  
 **Platform:** The Forage  
 **Task:** Data Preparation and Customer Analytics  
-**Tool Used:** Looker (Dashboard)  
+**Tool Used:** Looker (Dashboard)
+**Link to Dashboard:** [Analytics Dashboard](https://lookerstudio.google.com/u/1/reporting/792339d9-1768-400d-a709-9e9fd2cd4998/page/ATFQF)
 
 ---
 
